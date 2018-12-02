@@ -1,0 +1,5 @@
+.nyc_output
+coverage
+.git
+out
+node_modules
